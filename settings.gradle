@@ -1,0 +1,2 @@
+rootProject.name='DeleteAndUpdate'
+include ':app'
